@@ -138,7 +138,7 @@
 
  }
 
- .img-plan {
+ .plan-img{
      display: flex;
      padding-left: 20px;
  }
@@ -146,15 +146,16 @@
  .contact-plan {
      padding: 20px;
      text-align: center;
+    
  }
 
  /* main liner css */
  .main-liner {
 
-     margin-left: 350px;
+     margin-left: 370px;
      height: 30vh;
      width: 65%;
-     background: linear-gradient(to left, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)), url(images/watch.png);
+     background: linear-gradient(to left, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)), url(../assignment-1/images/watch.png);
      background-repeat: no-repeat;
      background-size: cover;
      color: #fff;
